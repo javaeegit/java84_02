@@ -7,6 +7,7 @@ public class test {
         System.out.println("我来解决冲突");
         System.out.println("解决内置.");
         System.out.println("22222");
+        System.out.println("222222222222222222冲突");
         System.out.println("3333333处理冲突");
     }
 
