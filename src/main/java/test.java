@@ -6,6 +6,7 @@ public class test {
         System.out.println("我是冲突...");
         System.out.println("我来解决冲突");
         System.out.println("解决内置.");
+        System.out.println("22222");
     }
 
 }
